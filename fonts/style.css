@@ -1,0 +1,74 @@
+#mainHeading{
+    font-size: 3rem;
+    text-align: center;
+    color: blue;
+    background-color: goldenrod;
+    border-radius: 3rem;
+    border: 0.5rem double black;
+    box-shadow:0.5rem 0.5rem green;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+#eatalaHeading{
+    font-size:1.5rem;
+    color:purple;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#eatalaPara{
+    font-family:'Courier New', Courier, monospace;
+    text-align: justify;
+    overflow: auto;
+    display: inline-block;
+    width: 67rem;height:13rem;
+}
+#bandiHeading{
+    font-size: 1.5rem;
+    color: yellowgreen;
+    font-family:cursive;
+}
+#bandiPara{
+font-family:cursive ;
+text-align: justify;
+overflow: auto;
+display: inline-block;
+width: 61rem;height: 10rem;
+}
+#kishanHeading{
+    font-size: 1.5rem;
+    color: hotpink;
+    font-family: fantasy;
+}
+#kishanPara{
+    font-family: fantasy;
+    text-align: justify;
+    overflow: auto;
+    display: inline-block;
+    width: 60rem; height: 11rem;
+}
+#raghunandhanHeading{
+    font-size: 1.5rem;
+    color: slateblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#raghunandhanPara{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:palevioletred;
+    text-align: justify;
+    overflow: auto;
+    display: inline-block;
+    width: 62rem;height: 11rem;
+}
+#BJPLogo
+{ width: 100px;
+    position: fixed;
+    top:5px;
+    left: 5px;
+filter: drop-shadow(10px 10px 10px black);
+}
+#modiLogo{
+    width: 100px;
+    position: fixed;
+    top: 5px;
+    right: 5px;
+    filter: drop-shadow(5px 5px 5px black);
+}
